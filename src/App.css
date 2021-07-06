@@ -1,38 +1,59 @@
-.App {
+
+
+.Container_Fed{
+  background-color: white;
+  width: 100%;
+  padding: 1%;
+}
+
+.Row{
+  background-color: rgb(227, 236, 193);
+  width: 100%;
+  margin: 1%;
+}
+
+.col{
+  background-color: white;
+  margin: 1%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.Footer{
+  background-color: black;
+  width: 100%;
+}
+.Footer_Cols{
+  background-color: black;
+}
+.Footer_Rows{
+  background-color: black;
+  margin-top: 2%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.Footer_SocialMedia{
+  background-color: black;
+  color: white;
+  margin: 1%;
+}
+.Footer_Text_ColibriesIt{
+  background-color: black;
+  color: grey;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.Maps_Container{
+  background-color: white;
+  max-width: 600px;
+  width: 600px;
+  height: 400px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.navbar {
+  background-color:black;
   color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }
