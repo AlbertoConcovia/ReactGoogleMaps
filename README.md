@@ -1,10 +1,13 @@
-Fed
+# FED
+
 @Author: Alberto Concovia Email: concovia@gmail.com
+
+
 
 About
 This is a solution for FED Take Home Task using React.js 
 
-Technologies and Modules
+<h2>Technologies and Modules</h2>
     "@jest-dom"
     "bootstrap"
     "react-bootstrap"
@@ -15,6 +18,9 @@ Technologies and Modules
 
 Unit Test
 
+<h2>Follow these steps to install and run the application</h2>
+
+clone the project 
 
 run npm install
 
