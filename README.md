@@ -1,11 +1,11 @@
-# FED
+# React Google Maps
 
 @Author: Alberto Concovia Email: concovia@gmail.com
 
 
 
 About
-This is a solution for FED Take Home Task using React.js 
+This is a solution Taking Home Task using React.js 
 
 <h2>Technologies and Modules</h2>
     "@jest-dom"
